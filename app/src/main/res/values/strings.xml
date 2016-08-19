@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MobilePlayTV</string>
+    <string name="fragment_see_more_film">XEM NHIỀU</string>
+    <string name="fragment_odd_film_text">PHIM LẺ</string>
+    <string name="fragment_new_film_text">PHIM MỚI</string>
+    <string name="fragment_top_vote_film">TOP VOTE</string>
+    <string name="fragment_theaters_film">PHIM CHIẾU RẠP</string>
+
+    //menu
+    <string name="menu_home_film">Home</string>
+    <string name="menu_like_film">Phim yêu thích</string>
+    <string name="menu_recent_film">Phim mới xem</string>
+
+    //toolBar
+    <string name="toolbar_name_title">Han Tran</string>
+    <string name="toolbar_icon_profile">Icon</string>
+    <string name="toolbar_more">More</string>
+
+</resources>

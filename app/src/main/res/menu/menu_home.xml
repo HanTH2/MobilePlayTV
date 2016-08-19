@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- icon profile -->
+    <item android:id="@+id/action_photo_profile"
+        android:icon="@drawable/ic_main_like_selected"
+        android:title="@string/toolbar_icon_profile"
+        android:showAsAction="ifRoom"
+        tools:ignore="AppCompatResource" />
+
+    <!-- name title-->
+    <item android:id="@+id/action_tilte_tab"
+        android:title="@string/toolbar_name_title"
+        android:showAsAction="ifRoom"
+        tools:ignore="AppCompatResource" />
+
+    <!-- More -->
+    <item android:id="@+id/action_more"
+        android:title="@string/toolbar_more"
+        android:showAsAction="never"
+        tools:ignore="AppCompatResource" />
+</menu>
